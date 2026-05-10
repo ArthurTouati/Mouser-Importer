@@ -2,7 +2,7 @@
 
 A KiCad Action Plugin (for PCBnew) that allows you to search for components on **Mouser**, view their real-time stock, pricing, and product images, and then automatically download their CAD models (Symbol, Footprint, and 3D Model) from **EasyEDA/LCSC** into your local KiCad library.
 
-![Plugin Screenshot](https://via.placeholder.com/800x600.png?text=KiCad+Mouser+Plugin)
+![Plugin Screenshot](api_screenshot.png)
 
 ## Features
 - 🔍 Search Mouser's catalog by keyword or part number.
