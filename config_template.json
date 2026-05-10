@@ -1,0 +1,5 @@
+{
+    "mouser_api_key": "YOUR_MOUSER_API_KEY_HERE",
+    "output_dir": "C:\\path\\to\\your\\kicad\\libraries",
+    "lib_name": "EasyEDA_Mouser"
+}
